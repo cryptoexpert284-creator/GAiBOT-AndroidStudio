@@ -1,0 +1,5 @@
+plugins { id 'com.android.application' }
+
+android { namespace 'com.gai.bot'; compileSdk 36
+    defaultConfig { applicationId 'com.gai.bot'; minSdk 23; targetSdk 36; versionCode 1; versionName '10.0.0' }
+}
