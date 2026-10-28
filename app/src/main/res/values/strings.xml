@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GAi BOT Scanner</string>
+    <string name="accessibility_description">Detect the selected Binance trading pair so GAi BOT can show live Binance market data without screen sharing.</string>
+</resources>
